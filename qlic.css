@@ -85,7 +85,15 @@ main {
   height: 64px;
   position: relative;
   padding: 0 20px;
-    white-space: nowrap;
+  white-space: nowrap;
+}
+
+/* Symmetric header centering on desktop */
+@media (min-width: 721px) {
+  .header-content { justify-content: center; }
+  .brand { flex: 1 1 0; margin-right: 0; }
+  .main-nav { position: relative; }
+  .lang-switch { flex: 1 1 0; margin-left: 0; text-align: right; }
 }
 
 .brand {
