@@ -297,7 +297,7 @@
             "liquids.chemicalsText": "Compliance, storage conditions and spill alerts.",
             "liquids.oilsTitle": "Oils",
             "liquids.oilsText": "Temperature stability and inventory planning.",
-            "liquids.othersTitle": "Among others",
+            "liquids.othersTitle": "Others",
             "liquids.othersText": "And more liquids across industries.",
 
             // Features Section
@@ -492,7 +492,7 @@
             "liquids.chemicalsText": "Cumplimiento, condiciones de almacenamiento y alertas por derrames.",
             "liquids.oilsTitle": "Aceites",
             "liquids.oilsText": "Estabilidad térmica y planificación de inventario.",
-            "liquids.othersTitle": "Entre otros",
+            "liquids.othersTitle": "Otros",
             "liquids.othersText": "Y otros líquidos en distintas industrias.",
 
             // Features Section
