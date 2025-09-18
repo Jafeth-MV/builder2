@@ -230,7 +230,7 @@
             "cta.getStarted": "Get Started",
             "cta.learnMore": "Learn More",
             "hero.more":
-                "Qlic integrates high-precision sensors with a cloud platform to give you full visibility of your tanks and lines. Configure alerts, share access, and export data for audits.",
+                "Droplet integrates high-precision sensors with a cloud platform to give you full visibility of your tanks and lines. Configure alerts, share access, and export data for audits.",
             "hero.badge": "Real-Time Monitoring",
 
             // Trust indicators
@@ -260,7 +260,7 @@
             // About Section
             "about.title": "About Us",
             "about.desc":
-                "At Qlic we build sensor and software technology to provide total visibility of liquid usage. We believe in precise data, useful alerts and operational simplicity.",
+                "At Droplet we build sensor and software technology to provide total visibility of liquid usage. We believe in precise data, useful alerts and operational simplicity.",
             "about.missionTitle": "Mission",
             "about.missionText": "Make liquid management predictable and efficient.",
             "about.reliabilityTitle": "Reliability",
@@ -272,7 +272,7 @@
 
             // Team Section
             "team.title": "Our team",
-            "team.desc": "Five pillars powering Qlic:",
+            "team.desc": "Five pillars powering Droplet:",
 
             // Solutions Section
             "solutions.title": "Solutions by segment",
@@ -282,6 +282,23 @@
             "solutions.businessTitle": "Businesses",
             "solutions.businessText":
                 "Control liquid inventories, audits and compliance in industries.",
+
+            // Liquids Section
+            "liquids.title": "Supported liquids",
+            "liquids.gasolineTitle": "Gasoline",
+            "liquids.gasolineText": "Level, temperature and safety thresholds for fuels.",
+            "liquids.beerTitle": "Beer",
+            "liquids.beerText": "Fermentation, temperature and volume control.",
+            "liquids.honeyTitle": "Honey",
+            "liquids.honeyText": "Viscosity-aware volume and temperature ranges.",
+            "liquids.molassesTitle": "Molasses",
+            "liquids.molassesText": "High-density tracking and pump-friendly alerts.",
+            "liquids.chemicalsTitle": "Chemicals",
+            "liquids.chemicalsText": "Compliance, storage conditions and spill alerts.",
+            "liquids.oilsTitle": "Oils",
+            "liquids.oilsText": "Temperature stability and inventory planning.",
+            "liquids.othersTitle": "Others",
+            "liquids.othersText": "And more liquids across industries.",
 
             // Features Section
             "features.title": "Key features",
@@ -297,17 +314,17 @@
 
             // Testimonials Section
             "testimonials.title": "What our customers say",
-            "testimonials.desc": "Real stories from teams using Qlic for liquids.",
+            "testimonials.desc": "Real stories from teams using Droplet for liquids.",
             "testimonials.1.quote":
-                "We finally have full visibility of our liquid tanks. Alerts prevented two outages last month.",
+                "Droplet cut unplanned downtime by 27% and paid for itself in 8 weeks. Our ops team sleeps better.",
             "testimonials.1.name": "Laura P.",
             "testimonials.1.role": "Facilities Lead",
             "testimonials.2.quote":
-                "Setup was simple and the dashboards are clear. Great support as well.",
+                "From fuel to syrup, one dashboard unifies everything. Forecasts are spot‑on and alerts are timely.",
             "testimonials.2.name": "Daniel R.",
             "testimonials.2.role": "Operations Manager",
             "testimonials.3.quote":
-                "We reduced liquid waste by 18% after a quarter using Qlic.",
+                "Inventory variance dropped 22% and replenishment logistics finally make sense.",
             "testimonials.3.name": "María G.",
             "testimonials.3.role": "Plant Supervisor",
 
@@ -406,7 +423,7 @@
             "cta.getStarted": "Comenzar",
             "cta.learnMore": "Más información",
             "hero.more":
-                "Qlic integra sensores de alta precisión con una plataforma en la nube para brindar visibilidad total de tus tanques y líneas. Configura alertas, comparte accesos y exporta datos para auditorías.",
+                "Droplet integra sensores de alta precisión con una plataforma en la nube para brindar visibilidad total de tus tanques y líneas. Configura alertas, comparte accesos y exporta datos para auditorías.",
             "hero.badge": "Monitoreo en tiempo real",
 
             // Trust indicators
@@ -437,7 +454,7 @@
             // About Section
             "about.title": "Nosotros",
             "about.desc":
-                "En Qlic construimos tecnología de sensores y software para brindar visibilidad total del uso de líquidos. Creemos en datos precisos, alertas útiles y simplicidad operativa.",
+                "En Droplet construimos tecnología de sensores y software para brindar visibilidad total del uso de líquidos. Creemos en datos precisos, alertas útiles y simplicidad operativa.",
             "about.missionTitle": "Misión",
             "about.missionText":
                 "Hacer que la gestión de líquidos sea predecible y eficiente.",
@@ -450,7 +467,7 @@
 
             // Team Section
             "team.title": "Nuestro equipo",
-            "team.desc": "Cinco pilares que impulsan Qlic:",
+            "team.desc": "Cinco pilares que impulsan Droplet:",
 
             // Solutions Section
             "solutions.title": "Soluciones por segmento",
@@ -460,6 +477,23 @@
             "solutions.businessTitle": "Negocios",
             "solutions.businessText":
                 "Controla inventarios de líquidos, auditorías y cumplimiento en industrias.",
+
+            // Sección de Líquidos
+            "liquids.title": "Líquidos compatibles",
+            "liquids.gasolineTitle": "Gasolina",
+            "liquids.gasolineText": "Nivel, temperatura y umbrales de seguridad para combustibles.",
+            "liquids.beerTitle": "Cerveza",
+            "liquids.beerText": "Fermentación, temperatura y control de volumen.",
+            "liquids.honeyTitle": "Miel",
+            "liquids.honeyText": "Rangos de temperatura y volumen considerando la viscosidad.",
+            "liquids.molassesTitle": "Melaza",
+            "liquids.molassesText": "Seguimiento de alta densidad y alertas para bombeo.",
+            "liquids.chemicalsTitle": "Químicos",
+            "liquids.chemicalsText": "Cumplimiento, condiciones de almacenamiento y alertas por derrames.",
+            "liquids.oilsTitle": "Aceites",
+            "liquids.oilsText": "Estabilidad térmica y planificación de inventario.",
+            "liquids.othersTitle": "Otros",
+            "liquids.othersText": "Entre otros líquidos para distintas industrias.",
 
             // Features Section
             "features.title": "Funcionalidades clave",
@@ -476,17 +510,17 @@
             // Testimonials Section
             "testimonials.title": "Lo que dicen nuestros clientes",
             "testimonials.desc":
-                "Historias reales de equipos que usan Qlic para líquidos.",
+                "Historias reales de equipos que usan Droplet para líquidos.",
             "testimonials.1.quote":
-                "Por fin tenemos visibilidad total de nuestros tanques de líquidos. Las alertas evitaron dos cortes el mes pasado.",
+                "Droplet redujo paradas imprevistas en 27% y se pagó en 8 semanas. El equipo opera con más tranquilidad.",
             "testimonials.1.name": "Laura P.",
             "testimonials.1.role": "Jefa de instalaciones",
             "testimonials.2.quote":
-                "La implementación fue sencilla y los paneles son claros. El soporte también es excelente.",
+                "De combustibles a melaza, todo en un solo panel. Las proyecciones son acertadas y las alertas, puntuales.",
             "testimonials.2.name": "Daniel R.",
             "testimonials.2.role": "Gerente de Operaciones",
             "testimonials.3.quote":
-                "Reducimos el desperdicio de líquidos en 18% tras un trimestre usando Qlic.",
+                "La variación de inventario cayó 22% y la logística de reabastecimiento por fin tiene sentido.",
             "testimonials.3.name": "María G.",
             "testimonials.3.role": "Supervisora de planta",
 
@@ -749,6 +783,8 @@
         setText("#liquids .features-grid .feature-card:nth-child(5) .feature-text", tr["liquids.chemicalsText"]);
         setText("#liquids .features-grid .feature-card:nth-child(6) .feature-title", tr["liquids.oilsTitle"]);
         setText("#liquids .features-grid .feature-card:nth-child(6) .feature-text", tr["liquids.oilsText"]);
+        setText("#liquids .features-grid .feature-card:nth-child(7) .feature-title", tr["liquids.othersTitle"]);
+        setText("#liquids .features-grid .feature-card:nth-child(7) .feature-text", tr["liquids.othersText"]);
 
         // Features Section
         setText("#features .section-title", tr["features.title"]);
@@ -986,7 +1022,7 @@
 
         const rights = document.querySelector(".footer-copy");
         if (rights)
-            rights.innerHTML = `© <span id="year"></span> Qlic. ${tr["footer.rights"]}`;
+            rights.innerHTML = `© <span id="year"></span> Droplet. ${tr["footer.rights"]}`;
 
         // Modal/Signup
         setText("#modal-title", tr["signup.title"]);
