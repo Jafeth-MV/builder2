@@ -55,6 +55,7 @@
             "#about",
             "#team",
             "#solutions",
+            "#liquids",
             "#features",
             "#testimonials",
             "#pricing",
@@ -220,6 +221,7 @@
             "nav.pricing": "Pricing",
             "nav.faq": "FAQ",
             "nav.contact": "Contact Sales",
+            "nav.liquids": "Liquids",
 
             // Hero Section
             "hero.title": "Smart liquid monitoring for homes and businesses",
@@ -395,6 +397,7 @@
             "nav.pricing": "Precios",
             "nav.faq": "FAQ",
             "nav.contact": "Contactar Ventas",
+            "nav.liquids": "Líquidos",
 
             // Hero Section
             "hero.title": "Monitoreo inteligente de líquidos para hogares y empresas",
@@ -588,6 +591,7 @@
         setText('a[href="#testimonials"]', tr["nav.testimonials"]);
         setText('a[href="#pricing"]', tr["nav.pricing"]);
         setText('a[href="#faq"]', tr["nav.faq"]);
+        setText('a[href="#liquids"]', tr["nav.liquids"]);
         setText('a[href="#contact"].btn', tr["nav.contact"]);
 
         // Hero Section
@@ -729,6 +733,22 @@
             "#solutions .solution-card:nth-child(2) .solution-text",
             tr["solutions.businessText"]
         );
+
+        // Features Section
+        // Liquids Section
+        setText("#liquids .section-title", tr["liquids.title"]);
+        setText("#liquids .features-grid .feature-card:nth-child(1) .feature-title", tr["liquids.gasolineTitle"]);
+        setText("#liquids .features-grid .feature-card:nth-child(1) .feature-text", tr["liquids.gasolineText"]);
+        setText("#liquids .features-grid .feature-card:nth-child(2) .feature-title", tr["liquids.beerTitle"]);
+        setText("#liquids .features-grid .feature-card:nth-child(2) .feature-text", tr["liquids.beerText"]);
+        setText("#liquids .features-grid .feature-card:nth-child(3) .feature-title", tr["liquids.honeyTitle"]);
+        setText("#liquids .features-grid .feature-card:nth-child(3) .feature-text", tr["liquids.honeyText"]);
+        setText("#liquids .features-grid .feature-card:nth-child(4) .feature-title", tr["liquids.molassesTitle"]);
+        setText("#liquids .features-grid .feature-card:nth-child(4) .feature-text", tr["liquids.molassesText"]);
+        setText("#liquids .features-grid .feature-card:nth-child(5) .feature-title", tr["liquids.chemicalsTitle"]);
+        setText("#liquids .features-grid .feature-card:nth-child(5) .feature-text", tr["liquids.chemicalsText"]);
+        setText("#liquids .features-grid .feature-card:nth-child(6) .feature-title", tr["liquids.oilsTitle"]);
+        setText("#liquids .features-grid .feature-card:nth-child(6) .feature-text", tr["liquids.oilsText"]);
 
         // Features Section
         setText("#features .section-title", tr["features.title"]);
