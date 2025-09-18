@@ -297,7 +297,7 @@
             "liquids.chemicalsText": "Compliance, storage conditions and spill alerts.",
             "liquids.oilsTitle": "Oils",
             "liquids.oilsText": "Temperature stability and inventory planning.",
-            "liquids.othersTitle": "Others",
+            "liquids.othersTitle": "Among others",
             "liquids.othersText": "And more liquids across industries.",
 
             // Features Section
@@ -492,8 +492,8 @@
             "liquids.chemicalsText": "Cumplimiento, condiciones de almacenamiento y alertas por derrames.",
             "liquids.oilsTitle": "Aceites",
             "liquids.oilsText": "Estabilidad térmica y planificación de inventario.",
-            "liquids.othersTitle": "Otros",
-            "liquids.othersText": "Entre otros líquidos para distintas industrias.",
+            "liquids.othersTitle": "Entre otros",
+            "liquids.othersText": "Y otros líquidos en distintas industrias.",
 
             // Features Section
             "features.title": "Funcionalidades clave",
@@ -781,10 +781,8 @@
         setText("#liquids .features-grid .feature-card:nth-child(4) .feature-text", tr["liquids.molassesText"]);
         setText("#liquids .features-grid .feature-card:nth-child(5) .feature-title", tr["liquids.chemicalsTitle"]);
         setText("#liquids .features-grid .feature-card:nth-child(5) .feature-text", tr["liquids.chemicalsText"]);
-        setText("#liquids .features-grid .feature-card:nth-child(6) .feature-title", tr["liquids.oilsTitle"]);
-        setText("#liquids .features-grid .feature-card:nth-child(6) .feature-text", tr["liquids.oilsText"]);
-        setText("#liquids .features-grid .feature-card:nth-child(7) .feature-title", tr["liquids.othersTitle"]);
-        setText("#liquids .features-grid .feature-card:nth-child(7) .feature-text", tr["liquids.othersText"]);
+        setText("#liquids .features-grid .feature-card:nth-child(6) .feature-title", tr["liquids.othersTitle"]);
+        setText("#liquids .features-grid .feature-card:nth-child(6) .feature-text", tr["liquids.othersText"]);
 
         // Features Section
         setText("#features .section-title", tr["features.title"]);
